@@ -1,4 +1,4 @@
-# jQuery Fluidify [![Bower Version](https://badge.fury.io/bo/jquery.fluidify.svg)
+# jQuery Fluidify [![Bower Version](https://badge.fury.io/bo/jquery.fluidify.svg)]
 
 ### Desc
 
